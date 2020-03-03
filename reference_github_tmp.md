@@ -4,6 +4,8 @@
 
 2. https://github.com/iamdsc/humor_detection
 
+3. https://github.com/cschen13/yelp-humor-detection
+
 
 
 
