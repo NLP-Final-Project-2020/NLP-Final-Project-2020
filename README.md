@@ -12,5 +12,6 @@ Inside the folder include the slide deck from the short presentation summarizing
 ### Project_Proposal
 List a google doc link for our project proposal.
 
-
+### Report
+In the folder is our final report in the style of a research paper  for our project and experiments.
  
